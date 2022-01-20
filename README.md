@@ -1,1 +1,0 @@
-# hopsital-management-system
